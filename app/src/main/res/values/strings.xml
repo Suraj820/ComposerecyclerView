@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Compose recyclerView</string>
+    <string name="title_activity_info">infoActivity</string>
 </resources>
